@@ -20,7 +20,4 @@ logging.basicConfig(
 # Add this line to also print log messages to the console
 logging.getLogger().addHandler(logging.StreamHandler())
 
-# Example usage
-if __name__ == "__main__":
-    logging.info("Logging has been initialized")
-    print(f"Log file created at: {LOG_FILE}")
+
