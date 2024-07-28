@@ -1,2 +1,9 @@
-numpy 
-seaborn 
+pandas
+numpy
+tensorflow
+numpy
+scikit-learn
+matplotlib
+
+
+-e .
