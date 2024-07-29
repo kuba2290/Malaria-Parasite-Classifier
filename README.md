@@ -20,16 +20,20 @@ This project implements a machine learning model to classify blood cell images a
 
 1. Clone the repository:
 https://github.com/kuba2290/Malaria-Parasite-Classifier.git
+
 cd malaria-parasite-classifier
 
 2. Create a virtual environment and activate it:
 python -m venv venv
-source venv/bin/activate  # On Windows, use venv\Scripts\activate
+source venv/bin/activate
+# On Windows, use 
+venv\Scripts\activate
 
-3. Install the required packages:
+4. Install the required packages:
 pip install -r requirements.txt
 
 ## Project Structure
+
 malaria-parasite-classifier/
 │
 ├── data/
