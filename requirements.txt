@@ -4,6 +4,16 @@ tensorflow
 numpy
 scikit-learn
 matplotlib
+dvc
+pyYAML
+python-box==6.0.2
+tqdm
+ensure==1.0.2
+joblib
+types-pyYAML
+scipy
+Flask
+Flask-Cors
 
 
 -e .
