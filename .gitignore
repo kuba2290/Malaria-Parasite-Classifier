@@ -133,6 +133,13 @@ venv.bak/
 *.jpg/
 /notebook/data/**/*.png
 /notebook/data/**/*.jpg
+/artifacts/test.npy
+/artifacts/train.npy
+/artifacts/val.npy
+artifacts/test.png.npy
+artifacts/train.png.npy
+artifacts/val.png.npy
+
 
 # Spyder project settings
 .spyderproject
