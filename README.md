@@ -85,7 +85,7 @@ The model achieves 60% accuracy on the test set. Detailed metrics including prec
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
-Your Name - [@your_twitter](https://twitter.com/kubasmide) - smide223@gmail.com
+ Name - [@https://twitter.com/kubasmide]- smide223@gmail.com
 
 Project Link: [https://github.com/kuba2290/Malaria-Parasite-Classifier]
 
